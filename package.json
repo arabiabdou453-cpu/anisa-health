@@ -1,0 +1,19 @@
+{
+  "name": "anisa-health",
+  "version": "1.0.0",
+  "description": "Anisa Health (أنيسة) — Human-centered conversational clinical discharge & post-acute patient recovery platform.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "healthcare",
+    "patient-safety",
+    "project-red",
+    "post-discharge",
+    "health-literacy",
+    "anisa-health"
+  ],
+  "author": "Anisa Health Initiative",
+  "license": "MIT"
+}
